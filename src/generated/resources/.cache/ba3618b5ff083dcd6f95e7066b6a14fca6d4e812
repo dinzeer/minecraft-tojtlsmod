@@ -1,0 +1,23 @@
+// 1.19.2	2023-12-27T09:44:48.6203949	Registrate Provider for tojtlsmod [Recipes, Advancements, Loot tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+0d45037b88a3818ad81779ed9ee4be69e0d03627 assets/tojtlsmod/blockstates/crimson_ingot_ore.json
+3ce6412842ed3dffe3af4deb481a8a4e064ccc6f assets/tojtlsmod/blockstates/youzi_block.json
+aa46037e3a819818dfaecb572a1ae5a8413b04a3 assets/tojtlsmod/blockstates/youzi_ingot_ore.json
+cf9bfddd905922cd0fb65d5fd67ae7b35af2cf10 assets/tojtlsmod/lang/en_ud.json
+613323ac7308ca3e390839bd0d02cd81c2f859da assets/tojtlsmod/lang/en_us.json
+d1fd507bada1ce8f26c16319383db354e972e19e assets/tojtlsmod/models/block/crimson_ingot_ore.json
+5d0d01d22aaec855daf192e01ea09c17bb2d72bf assets/tojtlsmod/models/block/youzi_block.json
+ac158a78ba85c3b0e85f9b7663bc69a211ecf167 assets/tojtlsmod/models/block/youzi_ingot_ore.json
+6b705626c72c736212603d7b2f30ac7367fade04 assets/tojtlsmod/models/item/brick_ingot.json
+b5dde6b5773b61d007f22ec435e13a821c51071e assets/tojtlsmod/models/item/crimson_ingot.json
+4746f4f6ca4642128ac0f326764d510f8f721189 assets/tojtlsmod/models/item/crimson_ingot_ore.json
+ada9f3a64ea604d80235587fd38391f940270832 assets/tojtlsmod/models/item/over_emerald.json
+3bbcdc7b44b19a14c1c49dc1d4648146731e579c assets/tojtlsmod/models/item/youzi_block.json
+45a3017966a74ccdb1549b82de5a9fa38605d87a assets/tojtlsmod/models/item/youzi_granules.json
+f47a781c0d8113b1ba32952290e546c4961d12f3 assets/tojtlsmod/models/item/youzi_ingot.json
+57a333f0989a72eed693eb2bcd271e7cfb512265 assets/tojtlsmod/models/item/youzi_ingot_ore.json
+c83ead02a97282e7dce26d99858945970ab4d19f data/minecraft/tags/blocks/mineable/pickaxe.json
+df3e9178911897c17b38fe4c23535f7ee6b3dc23 data/minecraft/tags/blocks/needs_diamond_tool.json
+ce8f1b4fb2b1740eec5b0ac1b3452569a5d69a8b data/minecraft/tags/blocks/needs_iron_tool.json
+af810472ab6284b6fbcecb0d61108e3de00b6339 data/tojtlsmod/loot_tables/blocks/crimson_ingot_ore.json
+c898926fd336b0fd0a7c974801f068cd0ec225fb data/tojtlsmod/loot_tables/blocks/youzi_block.json
+b61eb80ee4022a06a37c15ed8456e9d21dc6a0d4 data/tojtlsmod/loot_tables/blocks/youzi_ingot_ore.json

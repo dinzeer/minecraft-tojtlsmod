@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "tojtlsmod:block/crimson_ingot_ore"
+  }
+}

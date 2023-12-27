@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tojtlsmod:item/brick_ingot"
+  }
+}

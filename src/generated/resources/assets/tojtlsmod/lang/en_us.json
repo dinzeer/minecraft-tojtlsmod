@@ -1,0 +1,14 @@
+{
+  "block.tojtlsmod.crimson_ingot_ore": "Crimson Ingot Ore",
+  "block.tojtlsmod.youzi_block": "Youzi Block",
+  "block.tojtlsmod.youzi_ingot_ore": "Youzi Ingot Ore",
+  "item.tojtlsmod.brick_ingot": "Brick Ingot",
+  "item.tojtlsmod.crimson_ingot": "Crimson Ingot",
+  "item.tojtlsmod.over_emerald": "Over Emerald",
+  "item.tojtlsmod.youzi_granules": "Youzi Granules",
+  "item.tojtlsmod.youzi_ingot": "Youzi Ingot",
+  "itemGroup.tojtlsmod.tab_four": "minecraft tojtlsmod jewelry",
+  "itemGroup.tojtlsmod.tab_one": "minecraft tojtlsmod item",
+  "itemGroup.tojtlsmod.tab_three": "minecraft tojtlsmod tool",
+  "itemGroup.tojtlsmod.tab_two": "minecraft tojtlsmod block"
+}

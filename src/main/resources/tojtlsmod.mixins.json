@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dinzeer.tojtlsmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tojtlsmod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

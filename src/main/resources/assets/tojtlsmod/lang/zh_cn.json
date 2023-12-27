@@ -1,0 +1,21 @@
+{
+  "tabname": "方块放这",
+  "block.tojtlsmod.youzi_ingot_ore": "幽紫矿石",
+  "block.tojtlsmod.crimson_ingot_ore": "猩红矿石",
+  "block.tojtlsmod.youzi_block": "幽紫块",
+
+  "tabname": "物品放这",
+  "item.tojtlsmod.brick_ingot": "漆黑锭",
+  "item.tojtlsmod.crimson_ingot": "猩红锭",
+  "item.tojtlsmod.youzi_ingot": "幽紫锭",
+  "item.tojtlsmod.youzi_granules": "幽紫粒",
+  "item.tojtlsmod.over_emerald":"迷失宝石",
+
+  "tabname":"工具放这",
+
+  "tabname": "选项卡放这",
+  "itemGroup.tojtlsmod.tab_one":"我的世界传奇历程mod-物品",
+  "itemGroup.tojtlsmod.tab_two":"我的世界传奇历程mod-方块",
+  "itemGroup.tojtlsmod.tab_three":"我的世界传奇历程mod-工具",
+  "itemGroup.tojtlsmod.tab_four":"我的世界传奇历程mod-武器"
+}
